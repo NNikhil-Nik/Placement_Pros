@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Placement_Pros%20%20/static/css/main.680738a3.css",
+    "main.js": "/Placement_Pros%20%20/static/js/main.726c5c21.js",
+    "index.html": "/Placement_Pros%20%20/index.html",
+    "main.680738a3.css.map": "/Placement_Pros%20%20/static/css/main.680738a3.css.map",
+    "main.726c5c21.js.map": "/Placement_Pros%20%20/static/js/main.726c5c21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680738a3.css",
+    "static/js/main.726c5c21.js"
+  ]
+}
